@@ -22,6 +22,7 @@ public class Main {
         sorting(arr);
         //print result
         printResult(arr);
+
     }
     public static void sorting(int arr[]) {
         int temp;
